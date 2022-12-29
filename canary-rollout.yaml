@@ -30,6 +30,3 @@ spec:
   strategy:
     canary:
       canaryService: canary-demo-preview
-      steps:
-        - setWeight: 60
-        - setWeight: 60
